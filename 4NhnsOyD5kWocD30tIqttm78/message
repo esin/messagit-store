@@ -1,0 +1,16 @@
+{
+  Attributes: {
+    SentTimestamp: "1589836194883"
+  },
+  Body: "Hey!",
+  MD5OfBody: "6ae99d4d2de5e3cbd29fec87ae7d76eb",
+  MD5OfMessageAttributes: "787174e0a8c6cd6a839368d202b9344f",
+  MessageAttributes: {
+    decryptDate: {
+      DataType: "String",
+      StringValue: "Today"
+    }
+  },
+  MessageId: "9efb4118-8e3c-45e9-9f46-e337d2a0f4b9",
+  ReceiptHandle: "AQEBFsAVNTBpd96femIvRYi0aAPQ1JV4gjj9zTI7Pae8x1BMQJ5UM5E2Mv8Ga7Ch6v66MxdH/DCES3/vqt8F3P4U28t+e/0AiSIitNb7oB/HbCdlXPnhB5oobOn44biQbVXv9pKVzfUZZcNJ3TcFbx2+FvU6d3p6iqeIaiyr4yO3MG0pY97TxLaL4vek2tZ7lZrjOkUGyZ1PoLXaeafivc0vpqw5NJ+nzjXauG1s2B7rf2x4j4oK6NlOpWDk5xhwUvLPb23WnyXv8enxtfUngF+8VgATB8QdS4PxM/5t/pdwLvQ="
+}
