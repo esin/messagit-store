@@ -1,0 +1,20 @@
+{
+  Attributes: {
+    SentTimestamp: "1589908067631"
+  },
+  Body: "bWVzc2FnZQ==",
+  MD5OfBody: "26adf0c953d33098067c470c2ad80971",
+  MD5OfMessageAttributes: "366f48380c26c2dcf6d89d9b73a82b16",
+  MessageAttributes: {
+    OpenAfter: {
+      DataType: "Number",
+      StringValue: "0"
+    },
+    MessageID: {
+      DataType: "String",
+      StringValue: "PkOSigro61XfJmiw5Hms0zfy"
+    }
+  },
+  MessageId: "b58ab034-b0e4-413f-9d5c-39fd2b80955c",
+  ReceiptHandle: "AQEBkNlSx0l3ARGq7+o3yKs7dxi03nVk2NWbzV/1nuUmOiKpiBfHaBnAJdS7NgAeG/t7LbDqdvtVzLuD6x6ok96VT0RB4IvZCaOoNDS0q6IEq9ZwwbQ5dyFrV4XwzvKZ8Ll5Lbntz5LsbfeJcgnLso4b2Zeiultgd0xIKyO9fcRK4bxE9Fttljksov+kn4JBOIRpCk/7LgV4m5XvHgMIgFG939H7cCTA5zHvmZKBLZMfv5T1z15lR2XlpOi92dxs3OqX3aKNSwBdOEaT/M/C2S5LSpSxSX/fSSAO1J9RH+O2Sd0="
+}
